@@ -3,5 +3,7 @@ dosa
 uttappam
 idli sambhar
 masala dosa
+Beans
 chhola bhatura
 chocolate  cake
+Pizza
